@@ -2,7 +2,7 @@
 //  visionDiceApp.swift
 //  visionDice
 //
-//  Created by Isagi Yoichi on 16/01/24.
+//  Created by Harish Ranganathan on 16/01/24.
 //
 
 import SwiftUI
